@@ -18,7 +18,6 @@ I love to explore new technologies and leverage them to solve real-life problems
 [A Matter Of Taste - Recipes](https://github.com/iwonarudzinska/recipes) ➡ This application is on [Google Play](https://play.google.com/store/apps/developer?id=Iwona+Rudzi%C5%84ska) 
 
 <br>
-<br>
 
 ## ⚡ Languages & Frameworks & Tools ⚡
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -36,8 +35,6 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ## &#x270d; Blog 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Exploring Widgets Flutter](https://exploringwidgetsfl.wixsite.com/my-site) 
-
-<br>
 
 <br>
 

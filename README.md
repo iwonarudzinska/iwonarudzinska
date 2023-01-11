@@ -46,11 +46,15 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <br>
 
-<a href="https://flutter.dev/">
+<h1 align="center">
+ <img src="https://external-preview.redd.it/-QV1NPRaxpwxQd_BN59Mx6U77V40S-AYfwCvaSQQPHg.jpg?auto=webp&s=19a6b87654243077f877818165296d722c51e8ff" width="300px">
+</h1>
+
+<!-- <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
       <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
     </picture>
   </h1>
-</a>
+</a> -->

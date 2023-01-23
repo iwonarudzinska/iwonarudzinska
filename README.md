@@ -44,11 +44,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://www.linkedin.com/in/iwona-rudzi%C5%84ska/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iwona-rudzi%C5%84ska" height="30" width="40" /></a>
 </p>
 
-<br>
+<!-- <br>
 
 <h1 align="center">
  <img src="https://external-preview.redd.it/-QV1NPRaxpwxQd_BN59Mx6U77V40S-AYfwCvaSQQPHg.jpg?auto=webp&s=19a6b87654243077f877818165296d722c51e8ff" width="300px">
-</h1>
+</h1> -->
 
 <!-- <a href="https://flutter.dev/">
   <h1 align="center">
